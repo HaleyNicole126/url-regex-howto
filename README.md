@@ -1,5 +1,4 @@
-# url-regex-howto
-
+# Regex Tutorial - How to Match a URL 
 Link to Gist: 
 https://gist.github.com/HaleyNicole126/6eae1f74609dc25e2edfaab30d725508.js
 
