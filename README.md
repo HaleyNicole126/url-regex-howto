@@ -1,6 +1,6 @@
 # Regex Tutorial - How to Match a URL 
 Link to Gist: 
-https://gist.github.com/HaleyNicole126/6eae1f74609dc25e2edfaab30d725508.js
+https://gist.github.com/HaleyNicole126/6eae1f74609dc25e2edfaab30d725508
 
 Regex Tutorial - Matching a URL
 This tutorial indends to provide an explanation of a regular expression, or regex, that defines a search pattern that will match a URL. Regular expressions are useful if we want to check if a string matches a particular combination of characters, such as when validating data that someone has entered into a form. This explanation will include a breakdown of the individual components of a regular expression that matches a URL to help improve web development students' understanding of regular expressions both in this specific situation as well as how they function more broadly. The intention is to describe what each piece is doing in this regular expression as well as how we can use the components in other regular expressions.
